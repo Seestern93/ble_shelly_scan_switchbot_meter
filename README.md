@@ -28,7 +28,7 @@ I have tested it on following shelly devices:
 
 # Open Points
 * Verify that script is bug-free
-	* Unusual temperatures like negative °C temperatures
+	* Check proper parsing of negative °C temperatures
 * Cleanup code and enhance in-code docu
 * Support other Switchbot devices like SBM Pro or Outdoor or Switchbot Hub
 * Check that code works
